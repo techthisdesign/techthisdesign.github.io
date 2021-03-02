@@ -25,9 +25,6 @@ body {
   height: 200px;
 }
 
- .gallery-slider__images .item .img-fill {
-    height: 300px;
-}
   .gallery-slider__images .item .img-fill {
     height: 450px;
 }
