@@ -24,15 +24,12 @@ body {
   padding: 5px;
   height: 200px;
 }
-@media screen and (min-width: 576px) {
-  .gallery-slider__images .item .img-fill {
+
+ .gallery-slider__images .item .img-fill {
     height: 300px;
-  }
 }
-@media screen and (min-width: 720px) {
   .gallery-slider__images .item .img-fill {
     height: 450px;
-  }
 }
 .gallery-slider__images .item .img-fill img {
   display: inline-block;
